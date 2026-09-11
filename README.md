@@ -5,8 +5,6 @@ This project aims to predict the price of Ford cars using various features such 
 Data Source
 The dataset used in this project is sourced from a CSV file hosted on GitHub: https://raw.githubusercontent.com/jyotiarora-cse/ford-car-price-prediction--regression-model/refs/heads/main/ford.csv
 
-Author
-jyoti arora
 
 Methodology
 1. Data Loading and Initial Exploration
@@ -112,5 +110,8 @@ Linear Regression models were trained and compared across both feature sets:
 ├── ford.csv                          # Vehicle Dataset
 ├── car_price_prediction.ipynb        # Data Cleaning, EDA & ML Model Notebook
 └── README.md                         # Project Documentation
+Author
+
+
 Author
 jyoti arora
